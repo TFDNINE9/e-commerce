@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\YumBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\YumBlazor.b4buftrqsf.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\default.png",
+      "PackagePath": "staticwebassets\\images\\default.png"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\06a7abb7-1327-41bc-b379-8834c73b9160..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\06a7abb7-1327-41bc-b379-8834c73b9160..jpg"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\22aa1c1c-d0d0-4bdf-814a-b56a2aeb2aee..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\22aa1c1c-d0d0-4bdf-814a-b56a2aeb2aee..jpg"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\487c4c75-a4fe-4824-9bc4-956e05bce613..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\487c4c75-a4fe-4824-9bc4-956e05bce613..jpg"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\49f1cf5b-e535-487a-a6df-29cad827a9c7..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\49f1cf5b-e535-487a-a6df-29cad827a9c7..jpg"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\59b3a25f-2175-41fc-8930-efad21fbe3c8..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\59b3a25f-2175-41fc-8930-efad21fbe3c8..jpg"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\75b8200b-682c-4304-86ee-86bf5ade95d4..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\75b8200b-682c-4304-86ee-86bf5ade95d4..jpg"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\a5ea4161-efe4-45c6-a4dc-47e473ff8a2e..png",
+      "PackagePath": "staticwebassets\\images\\product\\a5ea4161-efe4-45c6-a4dc-47e473ff8a2e..png"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\d49af846-297a-4271-813b-caf6005e7ff4..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d49af846-297a-4271-813b-caf6005e7ff4..jpg"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\d724da18-d558-4f95-bfbd-489612a56cb5..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d724da18-d558-4f95-bfbd-489612a56cb5..jpg"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\df7ed93c-a1b2-446e-be37-e1b67af9424b..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\df7ed93c-a1b2-446e-be37-e1b67af9424b..jpg"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\e89cfdea-6212-4a7f-a01b-4cbb276ae03c..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e89cfdea-6212-4a7f-a01b-4cbb276ae03c..jpg"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\eb1fca06-33e8-44fa-acbe-b906428040bb..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\eb1fca06-33e8-44fa-acbe-b906428040bb..jpg"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\js\\common.js",
+      "PackagePath": "staticwebassets\\js\\common.js"
+    },
+    {
+      "Id": "D:\\blazor_project\\YumBlazor\\YumBlazor\\wwwroot\\js\\notification.js",
+      "PackagePath": "staticwebassets\\js\\notification.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.YumBlazor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.YumBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.YumBlazor.props",
+      "PackagePath": "build\\YumBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.YumBlazor.props",
+      "PackagePath": "buildMultiTargeting\\YumBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.YumBlazor.props",
+      "PackagePath": "buildTransitive\\YumBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
